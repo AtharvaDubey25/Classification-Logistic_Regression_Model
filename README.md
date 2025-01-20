@@ -1,4 +1,4 @@
-# Classification-Logostic_Regression_Model
+# Classification-Logistic_Regression_Model
 This repository contains an implementation of a Logistic Regression model, a fundamental supervised machine learning algorithm widely used for binary classification tasks.
 The project is designed to help beginners and enthusiasts understand the core concepts of logistic regression and its practical implementation.
 

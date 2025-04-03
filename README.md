@@ -5,8 +5,7 @@ The project is designed to help beginners and enthusiasts understand the core co
 **Features**
 **Binary Classification**: Classifies data into two distinct categories based on input features.
 
-**Implementation**: Built from scratch using Python, with no reliance on prebuilt libraries like Scikit-learn for educational purposes.
-
+**Implementation**: Built from scratch using Python
 
 **Visualization**: Plots decision boundaries and loss function for better interpretability.
 
